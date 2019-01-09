@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28306.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "iSavannah", "iSavannah\", "{5C4BBDC6-2F50-48C5-B304-B5ED7A3C3AB4}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "false"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/iSavannah"
+		Debug.AspNetCompiler.PhysicalPath = "iSavannah\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\iSavannah\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/iSavannah"
+		Release.AspNetCompiler.PhysicalPath = "iSavannah\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\iSavannah\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50101"
+		SlnRelativePath = "iSavannah\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C4BBDC6-2F50-48C5-B304-B5ED7A3C3AB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C4BBDC6-2F50-48C5-B304-B5ED7A3C3AB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B30D945A-E291-41EB-84F1-FE838004FC4A}
+	EndGlobalSection
+EndGlobal
