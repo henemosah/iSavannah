@@ -25,7 +25,7 @@
                     <div class="widget-int"><asp:Label ID="lblTareToday" runat="server" Text="" ForeColor="#006600"></asp:Label></div>
                 </div>
             </div>
-
+<br/>
             <div class="col-md-3">
                 <div class="widget widget-danger widget-padding-sm">
                     <div class="widget-big-int plugin-clock">00:00</div>                            
